@@ -1,0 +1,7 @@
+sunday zondag
+monday maandag
+Tuesday dinsdag
+Wednesday woensdag
+Thursday donderdag
+Friday vrijdag
+sturday zaterdag
